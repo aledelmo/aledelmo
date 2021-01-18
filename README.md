@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Alessandro 🇮🇹🇫🇷
+
+I'm currently building 🧑🏼‍💻 AI 🧠 systems supporting surgeons 🧑🏻‍⚕️👨🏼‍⚕️ during pediatric 👶🏽 minimally-invasive operations 🫀 !
+
+💻 Workplaces:
+- Imagine Institute (IMAG2 Team) 🧬 24 Boulevard du Montparnasse, 75015 Paris
+- Necker Hospital (Urology and Abdominal Surgery) 🚑 149 Rue de Sèvres, 75015 Paris
+
+🏔 Find out more: [aledelmo.github.io](https://aledelmo.github.io)
+
+📫 How to reach me: alessandro.delmonte@institutimagine.org
 
 <!--
 **aledelmo/aledelmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
